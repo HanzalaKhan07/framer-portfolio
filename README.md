@@ -1,3 +1,12 @@
+<!-- Things to improve in this website-->
+sticky navbar with small and also may be deffernt color whcih suit
+
+2- Moving Intro like I am 
+Hanzala Shaukat........................
+
+3- ***** Must imprve services page it is not looking like a wow
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
